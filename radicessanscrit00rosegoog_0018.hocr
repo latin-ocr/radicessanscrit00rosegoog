@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./radicessanscrit00rosegoog_0018.png"; bbox 0 0 2610 4710; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 374 176 1030 557">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 374 176 1030 557">
+     <span class='ocr_line' id='line_1_1' title="bbox 761 176 1030 335; baseline -0.011 2"><span class='ocrx_word' id='word_1_1' title='bbox 761 176 1030 335; x_wconf 50' lang='lat' dir='ltr'><strong>ww</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 374 425 776 557; baseline 0.01 -4"><span class='ocrx_word' id='word_1_2' title='bbox 374 425 776 557; x_wconf 88' lang='lat' dir='ltr'><strong>RADICES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 68 718 1035 902">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 68 718 1035 902">
+     <span class='ocr_line' id='line_1_3' title="bbox 68 718 1035 902; baseline -0.007 0"><span class='ocrx_word' id='word_1_3' title='bbox 68 718 1035 902; x_wconf 84' lang='lat' dir='ltr'><strong>SANSCRITAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 233 2218 902 2323">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 233 2218 902 2323">
+     <span class='ocr_line' id='line_1_4' title="bbox 233 2218 902 2323; baseline -0.006 -1"><span class='ocrx_word' id='word_1_4' title='bbox 233 2219 643 2323; x_wconf 87' lang='lat' dir='ltr'>FRIDERICUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 670 2218 902 2323; x_wconf 85' lang='lat' dir='ltr'>ROSEN.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 215 3508 922 3731">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 215 3508 922 3731">
+     <span class='ocr_line' id='line_1_5' title="bbox 436 3508 708 3598; baseline -0.015 0"><span class='ocrx_word' id='word_1_6' title='bbox 436 3508 708 3598; x_wconf 87' lang='lat' dir='ltr'>BEROLINI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 215 3664 922 3731; baseline -0.017 0"><span class='ocrx_word' id='word_1_7' title='bbox 215 3679 416 3731; x_wconf 73' lang='lat' dir='ltr'><strong>1m&gt;Eus1s</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 440 3678 688 3723; x_wconf 70' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 713 3664 763 3721; x_wconf 77' lang='grc' dir='ltr'><strong>υϋ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 769 3678 922 3723; x_wconf 68' lang='grc' dir='ltr'><strong>ιιιιιιι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1310 4710">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1310 4710">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1310 4710; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1310 4710; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
